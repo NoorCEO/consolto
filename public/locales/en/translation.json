@@ -1,0 +1,15 @@
+{
+	"titles": {
+		"home": "Home",
+		"about": "About",
+		"contact": "Contact us",
+		"login": "Login",
+		"register": "Register",
+		"logout": "Logout",
+		"profile": "Profile",
+		"settings": "Settings",
+		"search": "Search",
+		"search_results": "Search results",
+		"no_results": "No results"
+	}
+}
